@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mustafa khan
 - 👀 I’m interested in App Designing and Development
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on pratise projects
+- 💞️ I’m looking to collaborate on pratice projects
 - 📫 How to reach me mk.dev2002@gmail.com
 
 <!---
